@@ -4,7 +4,7 @@
 🤖Sou um jovem apaixonado por tecnologia, tenho bastante interesse na área tecnológica industrial, nos aprimoramentos de processos industriais, manutenções e desenvolvimento de soluções tecnológicas para a aprimoração da industria 4.0. 
 
 
-👨🏻‍🎓 Estudante de Engenhria de Software, atualmente estou cursando o 1° semestre.
+👨🏻‍🎓 Estudante de Engenhria de Software, atualmente estou cursando o 2° semestre.
 
 
 ## 🤹‍♂️Skills
