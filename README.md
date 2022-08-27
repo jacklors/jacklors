@@ -21,3 +21,9 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonloredo)
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacklors&show_icons=true&locale=en&layout=compact" alt="jacklors" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacklors&show_icons=true&locale=en" alt="jacklors" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacklors&" alt="jacklors" /></p>
